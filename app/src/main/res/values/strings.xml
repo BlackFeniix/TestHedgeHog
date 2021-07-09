@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestHedgeHog</string>
+    <string name="api_info">Api info</string>
+    <string name="jokes">Jokes</string>
+    <string name="button_reload_title">Reload</string>
+    <string name="count">Count</string>
+</resources>
